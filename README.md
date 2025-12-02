@@ -1,7 +1,7 @@
 
 
 ## About Me
-I’m **Wine**, a structural biology PhD candidate exploring the frontiers of **time‑resolved crystallography at XFEL** and **molecular simulations** to unravel biomolecular mechanisms at atomic resolution. I thrive on designing and executing experiments at cutting‑edge XFEL facilities, then diving into computational workflows to bring those snapshots to life.
+I’m **Wine**, a structural biology PhD candidate in Japan, exploring the frontiers of **time‑resolved crystallography at XFEL** and **molecular simulations** to unravel biomolecular mechanisms at atomic resolution. I thrive on designing and executing experiments at cutting‑edge XFEL facilities, then diving into computational workflows to bring those snapshots to life.
 
 My true passion lies in **AI‑driven workflows**—from automated data collection ,noise to signal ratio reduction and model building to predictive simulations and integrative analyses. I aim to harness machine learning and deep‑learning tools to accelerate discovery, improve reproducibility, and open new frontiers in our understanding of biomolecular machines.
 
